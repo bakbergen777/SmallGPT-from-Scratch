@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+data/processed/
+data/indices/
+checkpoints/
