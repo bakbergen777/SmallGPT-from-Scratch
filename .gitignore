@@ -1,5 +1,8 @@
-__pycache__/
-.DS_Store
-data/processed/
-data/indices/
 checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+*.pth
+*.bin
+venv/
